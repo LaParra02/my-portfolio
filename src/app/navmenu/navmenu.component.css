@@ -1,0 +1,22 @@
+.navmenu-sidebar {
+  width: 250px;
+}
+
+.navmenu-sidebar h3 {
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.navmenu-sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navmenu-sidebar ul li {
+  margin: 10px 0;
+}
+
+.navmenu-sidebar ul li a {
+  color: #fff;
+  text-decoration: none;
+}
